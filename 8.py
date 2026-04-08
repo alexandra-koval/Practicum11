@@ -6,6 +6,7 @@ def sort_string(s):
     sorted_string = ''.join(chars)
 
     return sorted_string
+    
 
 input_string = input()
 result = sort_string(input_string)
